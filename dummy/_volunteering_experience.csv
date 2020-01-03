@@ -1,0 +1,305 @@
+,user_id,activity,date,location,ngo
+4,ccb04edc-2349-11ea-9c27-74d02b9c93aa,Let the Dogs Out,1326807521,Xiongzhou,True
+6,ccb04ede-2349-11ea-9a47-74d02b9c93aa,Food Pantries,1491547960,Kybartai,True
+12,ccb04ee4-2349-11ea-b369-74d02b9c93aa,Clean Up,1443381358,Şuraabad,False
+30,ccb04ef6-2349-11ea-872f-74d02b9c93aa,Habitat for Humanity,1351472154,Bode Sadu,True
+39,ccb075e0-2349-11ea-94aa-74d02b9c93aa,Build a Home,1254468068,Slantsy,False
+50,ccb075eb-2349-11ea-a3f2-74d02b9c93aa,Join a Nonprofit Board,991287846,Jiazhuang,False
+59,ccb075f4-2349-11ea-9e34-74d02b9c93aa,Join a Nonprofit Board,1436996293,San Vicente,False
+66,ccb075fb-2349-11ea-a5b4-74d02b9c93aa,Animal Rescue Shelters,1414666236,Tampakan,True
+70,ccb075ff-2349-11ea-b93d-74d02b9c93aa,Art Museums,1241944931,Busdi,True
+76,ccb07605-2349-11ea-a78f-74d02b9c93aa,Get Geeky,1399150448,Mollebamba,True
+80,ccb07609-2349-11ea-8284-74d02b9c93aa,National Parks,1431494030,Guayabal,True
+86,ccb0760f-2349-11ea-bc03-74d02b9c93aa,Retirement Homes,1238030663,Perpignan,True
+89,ccb07612-2349-11ea-a329-74d02b9c93aa,Political Campaigns,1371643310,Qiaozhuang,False
+96,ccb07619-2349-11ea-ad4b-74d02b9c93aa,Get Geeky,955373043,Pasanggrahan,True
+102,ccb0761f-2349-11ea-a992-74d02b9c93aa,Local Libraries,1553621239,Francisco I Madero,True
+104,ccb07621-2349-11ea-ad5d-74d02b9c93aa,YMCA,1262540420,Apodi,False
+105,ccb07622-2349-11ea-8293-74d02b9c93aa,Clean Up,1176136121,Saint Louis,True
+110,ccb07627-2349-11ea-80c6-74d02b9c93aa,Tutor a Child,1520825755,San Lucas,True
+132,ccb0763d-2349-11ea-8536-74d02b9c93aa,Serve Food,1206062346,Antipino,True
+140,ccb07645-2349-11ea-9ab5-74d02b9c93aa,Adopt a Mile,1555782697,Savé,False
+141,ccb07646-2349-11ea-b0c9-74d02b9c93aa,Get Geeky,1376397753,Wielki Kack,True
+143,ccb07648-2349-11ea-a583-74d02b9c93aa,Let the Dogs Out,1093579074,Tessaoua,False
+148,ccb0764d-2349-11ea-b08b-74d02b9c93aa,Send Encouragement,1321769021,Nova Odesa,False
+150,ccb0764f-2349-11ea-9205-74d02b9c93aa,Animal Rescue Shelters,1238623195,Anning,False
+152,ccb07651-2349-11ea-8093-74d02b9c93aa,Animal Rescue Shelters,1436596508,Hongqi,False
+163,ccb0765c-2349-11ea-918d-74d02b9c93aa,Build a Home,961851737,Pillpinto,True
+176,ccb07669-2349-11ea-b7cd-74d02b9c93aa,Red Cross,1144937918,Shamboyacu,True
+183,ccb07670-2349-11ea-8f63-74d02b9c93aa,National Parks,1287296631,Santa Ana,True
+196,ccb0767d-2349-11ea-b17a-74d02b9c93aa,Red Cross,1365280996,Urechcha,False
+201,ccb07682-2349-11ea-b3e1-74d02b9c93aa,Local Libraries,1360552746,Stung Treng,True
+214,ccb0768f-2349-11ea-aabb-74d02b9c93aa,Serve Food,1016781125,Taloy,True
+217,ccb07692-2349-11ea-a0d3-74d02b9c93aa,Clean Up,1009701231,Marcabal,False
+232,ccb09cea-2349-11ea-aa7d-74d02b9c93aa,Retirement Homes,1431067434,Arsenal,False
+235,ccb09ced-2349-11ea-b328-74d02b9c93aa,Animal Rescue Shelters,1110006371,Dakoutun,True
+239,ccb09cf1-2349-11ea-a2ac-74d02b9c93aa,Food Pantries,1507133495,Elato,False
+246,ccb09cf8-2349-11ea-80cf-74d02b9c93aa,Hold a Blood Drive,1057219174,Beijie,False
+261,ccb09d07-2349-11ea-89f2-74d02b9c93aa,Tutor a Child,1193767796,Toutosa,False
+263,ccb09d09-2349-11ea-b870-74d02b9c93aa,Serve Food,1509293841,Arish,True
+267,ccb09d0d-2349-11ea-a0bf-74d02b9c93aa,Put on a Show,1567514882,Bourges,True
+274,ccb09d14-2349-11ea-bc49-74d02b9c93aa,Code for a Cause,1003492213,Headlands,True
+289,ccb09d23-2349-11ea-b0aa-74d02b9c93aa,Put on a Show,973473075,Atlanta,False
+298,ccb09d2c-2349-11ea-b7de-74d02b9c93aa,Build a Home,1463852503,Linköping,True
+299,ccb09d2d-2349-11ea-a91b-74d02b9c93aa,Political Campaigns,1163270914,Jinquan,False
+304,ccb09d32-2349-11ea-8eb3-74d02b9c93aa,Retirement Homes,1074298896,Songgang,False
+308,ccb09d36-2349-11ea-970d-74d02b9c93aa,Join a Nonprofit Board,1057998387,Mjölby,True
+309,ccb09d37-2349-11ea-a705-74d02b9c93aa,Tutor a Child,1342085731,Wang Nam Khiao,True
+329,ccb09d4b-2349-11ea-aeb2-74d02b9c93aa,Be a Landscaper,1283595383,El Capulin,False
+337,ccb09d53-2349-11ea-85cb-74d02b9c93aa,Adopt a Mile,1029591355,Manolás,False
+342,ccb09d58-2349-11ea-a6fe-74d02b9c93aa,Serve Food,1093681109,Limbuš,True
+354,ccb09d64-2349-11ea-ac55-74d02b9c93aa,Host a Car Wash,1256596088,Kongolo,True
+355,ccb09d65-2349-11ea-a334-74d02b9c93aa,Build a Home,1332889501,Qŭshkŭpir,True
+357,ccb09d67-2349-11ea-8a1a-74d02b9c93aa,Be a Landscaper,1048496019,Mari,False
+359,ccb09d69-2349-11ea-a36f-74d02b9c93aa,Hold a Blood Drive,1504495813,Sanying,True
+361,ccb09d6b-2349-11ea-8e2d-74d02b9c93aa,Hold a Blood Drive,1185100467,‘Ayn al Bayḑā,False
+374,ccb09d78-2349-11ea-842a-74d02b9c93aa,Art Museums,1132524355,Bendosari,True
+377,ccb09d7b-2349-11ea-a872-74d02b9c93aa,Join a Nonprofit Board,975701323,Rožna Dolina,True
+386,ccb09d84-2349-11ea-b37c-74d02b9c93aa,Red Cross,948819402,Kuantan,True
+396,ccb09d8e-2349-11ea-97f4-74d02b9c93aa,Adopt a Mile,1484370858,Podbrdo,False
+402,ccb09d94-2349-11ea-aee3-74d02b9c93aa,Host an Exchange Student,1092343038,Pishaj,True
+406,ccb09d98-2349-11ea-8d10-74d02b9c93aa,Tutor a Child,1432903528,Mahaba,True
+425,ccb0c3ef-2349-11ea-a752-74d02b9c93aa,Build a Home,1114552802,Kashihara,True
+435,ccb0c3f9-2349-11ea-9b4a-74d02b9c93aa,Join a Nonprofit Board,1024277582,Corujeira,False
+438,ccb0c3fc-2349-11ea-b307-74d02b9c93aa,Host an Exchange Student,1376406526,Moshiyi,True
+441,ccb0c3ff-2349-11ea-97b6-74d02b9c93aa,Serve Food,1538661745,Lumijoki,False
+444,ccb0c402-2349-11ea-9ba6-74d02b9c93aa,Host an Exchange Student,1059925293,Žleby,False
+446,ccb0c404-2349-11ea-9ed9-74d02b9c93aa,Let the Dogs Out,1476939618,Cool űrhajó,True
+448,ccb0c406-2349-11ea-bafd-74d02b9c93aa,Habitat for Humanity,1532523842,Sioux City,True
+451,ccb0c409-2349-11ea-bbd2-74d02b9c93aa,Get Geeky,1113244082,Tawau,False
+457,ccb0c40f-2349-11ea-8bb2-74d02b9c93aa,Clean Up,1475746462,Gigante,False
+462,ccb0c414-2349-11ea-9e06-74d02b9c93aa,Be a Landscaper,955993756,Gelatik,True
+464,ccb0c416-2349-11ea-b579-74d02b9c93aa,Animal Rescue Shelters,1213395014,Meiqi,True
+466,ccb0c418-2349-11ea-8c2b-74d02b9c93aa,Retirement Homes,1488761148,Sáchica,True
+470,ccb0c41c-2349-11ea-ba06-74d02b9c93aa,Get Geeky,1086016081,Baoquan,True
+473,ccb0c41f-2349-11ea-adc0-74d02b9c93aa,Serve Food,1494555314,Heshan,False
+474,ccb0c420-2349-11ea-896d-74d02b9c93aa,Clean Up,1509734037,Póvoa,True
+476,ccb0c422-2349-11ea-8903-74d02b9c93aa,Clean Up,1157063612,Sines,True
+483,ccb0c429-2349-11ea-bac4-74d02b9c93aa,Serve Food,1545025114,Sępopol,False
+490,ccb0c430-2349-11ea-8d24-74d02b9c93aa,Animal Rescue Shelters,1090834953,Liuji,False
+492,ccb0c432-2349-11ea-bc93-74d02b9c93aa,Join a Nonprofit Board,995196224,Baoyou,True
+494,ccb0c434-2349-11ea-83c1-74d02b9c93aa,Retirement Homes,1047752061,Infantas,False
+499,ccb0c439-2349-11ea-afb0-74d02b9c93aa,Adopt a Mile,979500197,Kaura Namoda,True
+519,ccb0c44d-2349-11ea-92b1-74d02b9c93aa,Be a Landscaper,1421748200,Runting,False
+521,ccb0c44f-2349-11ea-88bf-74d02b9c93aa,Red Cross,1237396690,Velas,True
+522,ccb0c450-2349-11ea-89b0-74d02b9c93aa,Political Campaigns,1551245021,Fuling,False
+527,ccb0c455-2349-11ea-834e-74d02b9c93aa,Local Libraries,1522355711,Santa Maria,True
+535,ccb0c45d-2349-11ea-a0a7-74d02b9c93aa,Art Museums,1433088375,Kulutan,False
+536,ccb0c45e-2349-11ea-8067-74d02b9c93aa,Join a Nonprofit Board,1560260465,Wangping,True
+538,ccb0c460-2349-11ea-b9f0-74d02b9c93aa,Art Museums,989026028,Cabrero,False
+542,ccb0c464-2349-11ea-9162-74d02b9c93aa,Clean Up,1190330029,Pinayagan Norte,True
+544,ccb0c466-2349-11ea-bb89-74d02b9c93aa,Offer to Cook,1020226635,Umeå,False
+549,ccb0c46b-2349-11ea-8cb6-74d02b9c93aa,Send Encouragement,1297602783,Luoting,True
+557,ccb0c473-2349-11ea-9557-74d02b9c93aa,Put on a Show,1170223463,Lüfeng,False
+564,ccb0c47a-2349-11ea-afa7-74d02b9c93aa,Tutor a Child,1186565535,Maisons-Alfort,True
+567,ccb0c47d-2349-11ea-a31b-74d02b9c93aa,Food Pantries,1133872428,Linköping,False
+568,ccb0c47e-2349-11ea-acc4-74d02b9c93aa,Hold a Blood Drive,1256567261,Siemkowice,True
+594,ccb0c498-2349-11ea-81dc-74d02b9c93aa,Put on a Show,1054355580,Pasirpanjang,False
+607,ccb0c4a5-2349-11ea-98fe-74d02b9c93aa,National Parks,1444084276,Colombes,True
+614,ccb0c4ac-2349-11ea-b58b-74d02b9c93aa,Art Museums,1105574272,Shigou,False
+615,ccb0c4ad-2349-11ea-b82a-74d02b9c93aa,Get Geeky,1177534483,Buan,False
+620,ccb0c4b2-2349-11ea-9ebd-74d02b9c93aa,Offer to Cook,1485369872,Naru,True
+643,ccb0eb0c-2349-11ea-8792-74d02b9c93aa,National Parks,1097905510,Urbiztondo,True
+669,ccb0eb26-2349-11ea-91c8-74d02b9c93aa,Put on a Show,1555834317,Corralillo,False
+672,ccb0eb29-2349-11ea-b2d5-74d02b9c93aa,Host an Exchange Student,1012558406,Labinot-Mal,False
+689,ccb0eb3a-2349-11ea-b305-74d02b9c93aa,Get Geeky,1501923794,Mġarr,True
+695,ccb0eb40-2349-11ea-a61c-74d02b9c93aa,Art Museums,1065591047,Iguig,True
+700,ccb0eb45-2349-11ea-bb16-74d02b9c93aa,Be a Landscaper,1263359497,Batal,False
+702,ccb0eb47-2349-11ea-8880-74d02b9c93aa,Food Pantries,1373100520,Shishan,False
+715,ccb0eb54-2349-11ea-bfaf-74d02b9c93aa,Offer to Cook,1201118591,Uchkeken,True
+724,ccb0eb5d-2349-11ea-8071-74d02b9c93aa,National Parks,1247229905,Xishaping,True
+728,ccb0eb61-2349-11ea-bda9-74d02b9c93aa,Retirement Homes,1449075319,Pasirmanggu,False
+732,ccb0eb65-2349-11ea-96ed-74d02b9c93aa,National Parks,1419075883,Minna,False
+734,ccb0eb67-2349-11ea-85f7-74d02b9c93aa,Clean Up,1061578160,Tân Hòa,True
+737,ccb0eb6a-2349-11ea-8ec2-74d02b9c93aa,Code for a Cause,1246590682,Karatsu,True
+741,ccb0eb6e-2349-11ea-8082-74d02b9c93aa,Retirement Homes,1500770534,Lindi,True
+747,ccb0eb74-2349-11ea-af4c-74d02b9c93aa,Serve Food,1387531995,Saidpur,False
+749,ccb0eb76-2349-11ea-a599-74d02b9c93aa,Join a Nonprofit Board,1499575722,Beitou,False
+760,ccb0eb81-2349-11ea-a137-74d02b9c93aa,Build a Home,1023262340,Amieira,False
+765,ccb0eb86-2349-11ea-ae71-74d02b9c93aa,Animal Rescue Shelters,1103889652,Purificación,True
+766,ccb0eb87-2349-11ea-935c-74d02b9c93aa,Be a Landscaper,1080624586,Phanom Sarakham,True
+768,ccb0eb89-2349-11ea-9a19-74d02b9c93aa,Art Museums,1539023659,Haoxin,True
+769,ccb0eb8a-2349-11ea-9958-74d02b9c93aa,Host a Car Wash,1061786966,Clermont-Ferrand,False
+772,ccb0eb8d-2349-11ea-906f-74d02b9c93aa,Get Geeky,1213701014,Raleigh,True
+774,ccb0eb8f-2349-11ea-a5ec-74d02b9c93aa,Local Libraries,1530342712,Yashkul’,True
+775,ccb0eb90-2349-11ea-9f68-74d02b9c93aa,Serve Food,1460536203,Krasnosilka,True
+778,ccb0eb93-2349-11ea-acff-74d02b9c93aa,Send Encouragement,1429954106,Kota Kinabalu,True
+781,ccb0eb96-2349-11ea-82f8-74d02b9c93aa,Political Campaigns,1084208803,Bezerros,True
+784,ccb0eb99-2349-11ea-bbc2-74d02b9c93aa,Join a Nonprofit Board,1227171013,Koani Ndogo,False
+790,ccb0eb9f-2349-11ea-9ad2-74d02b9c93aa,Put on a Show,1311785938,Escola,False
+804,ccb0ebad-2349-11ea-816e-74d02b9c93aa,Retirement Homes,1087106867,Pisan,True
+808,ccb0ebb1-2349-11ea-97bf-74d02b9c93aa,Habitat for Humanity,1463992199,Mellila,True
+818,ccb11203-2349-11ea-a3f8-74d02b9c93aa,Animal Rescue Shelters,1324657512,Nice,True
+828,ccb1120d-2349-11ea-bb85-74d02b9c93aa,Let the Dogs Out,1278919278,Thanh Khê,False
+846,ccb1121f-2349-11ea-abc8-74d02b9c93aa,Local Libraries,1560968589,Bungsuan,False
+852,ccb11225-2349-11ea-9e05-74d02b9c93aa,Build a Home,1161765132,Delanggu,True
+853,ccb11226-2349-11ea-9372-74d02b9c93aa,YMCA,1358326309,Colomi,False
+870,ccb11237-2349-11ea-bd19-74d02b9c93aa,Serve Food,1537563591,Jam,False
+876,ccb1123d-2349-11ea-adac-74d02b9c93aa,Join a Nonprofit Board,1473243656,Sirāhā,False
+880,ccb11241-2349-11ea-a499-74d02b9c93aa,Build a Home,1370744957,Cergy-Pontoise,True
+893,ccb1124e-2349-11ea-89ae-74d02b9c93aa,Tutor a Child,1032265478,Huansheng,True
+898,ccb11253-2349-11ea-bfe0-74d02b9c93aa,Build a Home,956824687,Jenang Selatan,True
+900,ccb11255-2349-11ea-9bbe-74d02b9c93aa,Red Cross,1417453521,Gvozd,True
+908,ccb1125d-2349-11ea-bf25-74d02b9c93aa,Red Cross,1461651473,Bacolod,False
+909,ccb1125e-2349-11ea-90d5-74d02b9c93aa,Hold a Blood Drive,989385643,Vinica,True
+916,ccb11265-2349-11ea-a125-74d02b9c93aa,Host an Exchange Student,1128447525,Vrbice,False
+918,ccb11267-2349-11ea-96dc-74d02b9c93aa,Serve Food,1140114411,Jinshan,True
+928,ccb11271-2349-11ea-9ec4-74d02b9c93aa,Art Museums,957236806,Karangturi,False
+929,ccb11272-2349-11ea-82a9-74d02b9c93aa,Join a Nonprofit Board,1524070599,Bertioga,True
+950,ccb11287-2349-11ea-8281-74d02b9c93aa,Habitat for Humanity,1104407159,Färgelanda,False
+961,ccb11292-2349-11ea-b130-74d02b9c93aa,National Parks,995019167,Magburaka,False
+969,ccb1129a-2349-11ea-a513-74d02b9c93aa,Political Campaigns,1164225109,Turmus‘ayyā,False
+970,ccb1129b-2349-11ea-a3fd-74d02b9c93aa,YMCA,1518168901,Evxinoúpolis,True
+987,ccb112ac-2349-11ea-b48e-74d02b9c93aa,National Parks,1146575064,Eastern Suburbs Mc,True
+994,ccb112b3-2349-11ea-a0b3-74d02b9c93aa,YMCA,1189310020,Aubagne,True
+1005,ccb112be-2349-11ea-b507-74d02b9c93aa,Build a Home,1353597226,Novovarshavka,False
+1008,ccb112c1-2349-11ea-a3ef-74d02b9c93aa,Adopt a Mile,1349895455,Dagang,False
+1017,ccb1390c-2349-11ea-84b3-74d02b9c93aa,Tutor a Child,1412769206,Gò Quao,True
+1035,ccb1391e-2349-11ea-a2a3-74d02b9c93aa,Hold a Blood Drive,1138756699,Budapest,True
+1038,ccb13921-2349-11ea-9f2f-74d02b9c93aa,Offer to Cook,1266619474,Magangué,True
+1050,ccb1392d-2349-11ea-9794-74d02b9c93aa,Animal Rescue Shelters,1209529730,São Sebastião,True
+1062,ccb13939-2349-11ea-bed1-74d02b9c93aa,Let the Dogs Out,1013117775,Myski,False
+1068,ccb1393f-2349-11ea-8df5-74d02b9c93aa,Offer to Cook,1230665182,Darkovice,True
+1069,ccb13940-2349-11ea-b2d2-74d02b9c93aa,Red Cross,1358508052,Heshang,False
+1073,ccb13944-2349-11ea-9d1a-74d02b9c93aa,Build a Home,997896100,Paris 09,True
+1074,ccb13945-2349-11ea-a446-74d02b9c93aa,Political Campaigns,947924159,Luhačovice,True
+1076,ccb13947-2349-11ea-af39-74d02b9c93aa,Hold a Blood Drive,1547152348,Shuangyuan,True
+1082,ccb1394d-2349-11ea-8047-74d02b9c93aa,Put on a Show,1021032098,Smithers,True
+1085,ccb13950-2349-11ea-bcda-74d02b9c93aa,Build a Home,1211453721,Matozinhos,True
+1086,ccb13951-2349-11ea-ab39-74d02b9c93aa,Build a Home,1276536993,Aldeia,False
+1093,ccb13958-2349-11ea-aa17-74d02b9c93aa,Join a Nonprofit Board,1389848285,Cergy-Pontoise,True
+1095,ccb1395a-2349-11ea-a3d8-74d02b9c93aa,Join a Nonprofit Board,1433276512,Yuty,True
+1099,ccb1395e-2349-11ea-837d-74d02b9c93aa,Build a Home,1288583727,Dongshe,True
+1100,ccb1395f-2349-11ea-a737-74d02b9c93aa,Tutor a Child,956142016,Arvika,True
+1104,ccb13963-2349-11ea-bd45-74d02b9c93aa,Host an Exchange Student,1285395760,Kibiya,False
+1107,ccb13966-2349-11ea-a28a-74d02b9c93aa,Join a Nonprofit Board,1122859072,Nabunturan,False
+1108,ccb13967-2349-11ea-b284-74d02b9c93aa,Hold a Blood Drive,1285029930,Nanlü,True
+1111,ccb1396a-2349-11ea-87e1-74d02b9c93aa,Red Cross,1271293352,Lugang,True
+1150,ccb13991-2349-11ea-9b4e-74d02b9c93aa,Art Museums,1391451192,Bukitkemuning,True
+1156,ccb13997-2349-11ea-9871-74d02b9c93aa,Food Pantries,1144031951,Hezhi,False
+1193,ccb139bc-2349-11ea-8200-74d02b9c93aa,National Parks,1343317409,Ndwedwe,True
+1196,ccb139bf-2349-11ea-9c88-74d02b9c93aa,National Parks,1005620341,Jandira,True
+1205,ccb16012-2349-11ea-912f-74d02b9c93aa,Serve Food,1509199516,Huangguan,False
+1207,ccb16014-2349-11ea-92a2-74d02b9c93aa,Adopt a Mile,1029003248,Psyzh,False
+1230,ccb1602b-2349-11ea-adcb-74d02b9c93aa,Code for a Cause,999352176,Ramos West,True
+1235,ccb16030-2349-11ea-a45f-74d02b9c93aa,Retirement Homes,1165788377,Aygek,False
+1239,ccb16034-2349-11ea-bfdd-74d02b9c93aa,Animal Rescue Shelters,1501764801,Svalöv,True
+1246,ccb1603b-2349-11ea-b9fa-74d02b9c93aa,Code for a Cause,980405693,Petrov,True
+1252,ccb16041-2349-11ea-bc2e-74d02b9c93aa,YMCA,1016778681,Hubei,False
+1255,ccb16044-2349-11ea-8540-74d02b9c93aa,Clean Up,1561831399,Ampelgading,False
+1257,ccb16046-2349-11ea-930c-74d02b9c93aa,Food Pantries,1333452472,Gowa,False
+1259,ccb16048-2349-11ea-8023-74d02b9c93aa,Join a Nonprofit Board,1325563150,Maojia,False
+1268,ccb16051-2349-11ea-a047-74d02b9c93aa,Serve Food,1053149991,Pringu,True
+1269,ccb16052-2349-11ea-8022-74d02b9c93aa,National Parks,1360144282,Da’an,False
+1272,ccb16055-2349-11ea-b2c1-74d02b9c93aa,Offer to Cook,1019025054,Sanchahe,True
+1274,ccb16057-2349-11ea-92b0-74d02b9c93aa,Put on a Show,1507716326,Dusun Tengah Cihaurbeuti,True
+1277,ccb1605a-2349-11ea-9b5f-74d02b9c93aa,Join a Nonprofit Board,1382827886,Kangar,False
+1280,ccb1605d-2349-11ea-aecc-74d02b9c93aa,Offer to Cook,1188158049,Netanya,True
+1281,ccb1605e-2349-11ea-a4f3-74d02b9c93aa,Send Encouragement,1069067762,Imus,False
+1286,ccb16063-2349-11ea-abac-74d02b9c93aa,Red Cross,1216561688,Jinping,True
+1289,ccb16066-2349-11ea-87a5-74d02b9c93aa,Offer to Cook,1200021782,Kleszczów,False
+1297,ccb1606e-2349-11ea-8b3c-74d02b9c93aa,Habitat for Humanity,1176764477,Dikhil,False
+1300,ccb16071-2349-11ea-bea8-74d02b9c93aa,Get Geeky,1346573982,Ha’erlong,True
+1317,ccb16082-2349-11ea-9614-74d02b9c93aa,Adopt a Mile,1459993272,Yangqiaodian,False
+1323,ccb16088-2349-11ea-8900-74d02b9c93aa,Serve Food,1182456093,Poitiers,False
+1325,ccb1608a-2349-11ea-8287-74d02b9c93aa,Red Cross,1086634500,Górki,True
+1338,ccb16097-2349-11ea-8e9f-74d02b9c93aa,Tutor a Child,1090508863,Madrid,True
+1342,ccb1609b-2349-11ea-8265-74d02b9c93aa,Code for a Cause,1140635866,Cuevas,True
+1357,ccb160aa-2349-11ea-b80c-74d02b9c93aa,Hold a Blood Drive,1556133245,Llipa,True
+1369,ccb160b6-2349-11ea-b77c-74d02b9c93aa,YMCA,1117859828,Tete,False
+1373,ccb160ba-2349-11ea-8e0f-74d02b9c93aa,Clean Up,1551939798,Alavieska,False
+1375,ccb160bc-2349-11ea-8540-74d02b9c93aa,Political Campaigns,1157700977,Dobryanka,True
+1376,ccb160bd-2349-11ea-83a2-74d02b9c93aa,Retirement Homes,1098237650,Bom Despacho,False
+1381,ccb160c2-2349-11ea-b232-74d02b9c93aa,Local Libraries,1254240177,Yuqunweng,True
+1393,ccb160ce-2349-11ea-82ad-74d02b9c93aa,Art Museums,1443543095,Ailigandí,False
+1397,ccb160d2-2349-11ea-8f61-74d02b9c93aa,Be a Landscaper,1199868802,La Libertad,False
+1398,ccb160d3-2349-11ea-9174-74d02b9c93aa,Put on a Show,1209377300,Cielmice,False
+1406,ccb18720-2349-11ea-a596-74d02b9c93aa,YMCA,1338265488,Prażmów,False
+1414,ccb18728-2349-11ea-b02a-74d02b9c93aa,Political Campaigns,1045502487,Vidnoye,True
+1415,ccb18729-2349-11ea-99fc-74d02b9c93aa,Be a Landscaper,1258457872,Stende,False
+1416,ccb1872a-2349-11ea-8988-74d02b9c93aa,Political Campaigns,1035681723,Effium,False
+1419,ccb1872d-2349-11ea-b849-74d02b9c93aa,Red Cross,1347918462,Binkolo,False
+1422,ccb18730-2349-11ea-8b6e-74d02b9c93aa,National Parks,1010015982,Rognedino,True
+1433,ccb1873b-2349-11ea-a731-74d02b9c93aa,Host an Exchange Student,1313791084,Dubki,False
+1434,ccb1873c-2349-11ea-8419-74d02b9c93aa,Local Libraries,1565783153,San Patricio,True
+1436,ccb1873e-2349-11ea-8a8e-74d02b9c93aa,Join a Nonprofit Board,1316069618,Nicoya,True
+1437,ccb1873f-2349-11ea-9349-74d02b9c93aa,Food Pantries,954712781,Croix,True
+1447,ccb18749-2349-11ea-a148-74d02b9c93aa,YMCA,1212570642,Borowno,False
+1457,ccb18753-2349-11ea-a620-74d02b9c93aa,Code for a Cause,1287749599,Nzeto,False
+1464,ccb1875a-2349-11ea-a0fe-74d02b9c93aa,Tutor a Child,1278933767,Taquari,False
+1465,ccb1875b-2349-11ea-8c3c-74d02b9c93aa,Send Encouragement,1239142445,Vostryakovo,True
+1469,ccb1875f-2349-11ea-924c-74d02b9c93aa,National Parks,964483354,Bussum,False
+1488,ccb18772-2349-11ea-89ef-74d02b9c93aa,Food Pantries,1203855862,Kishkenekol’,True
+1492,ccb18776-2349-11ea-97dc-74d02b9c93aa,Art Museums,1181207680,Velké Karlovice,False
+1510,ccb18788-2349-11ea-be13-74d02b9c93aa,Animal Rescue Shelters,1145597070,Hastings,True
+1512,ccb1878a-2349-11ea-9a70-74d02b9c93aa,Serve Food,1445545680,Heping,True
+1520,ccb18792-2349-11ea-9e54-74d02b9c93aa,Send Encouragement,1186141509,Mancagahar,False
+1523,ccb18795-2349-11ea-a442-74d02b9c93aa,Food Pantries,1034474682,Sinhyeon,False
+1535,ccb187a1-2349-11ea-9f5d-74d02b9c93aa,Hold a Blood Drive,1249163798,Kozhanka,False
+1545,ccb187ab-2349-11ea-a12f-74d02b9c93aa,Get Geeky,1471087144,Tanjung Palas,True
+1546,ccb187ac-2349-11ea-acee-74d02b9c93aa,Serve Food,1500388199,Póvoa,True
+1550,ccb187b0-2349-11ea-8d44-74d02b9c93aa,Be a Landscaper,1280671205,Bakungan,False
+1565,ccb187bf-2349-11ea-9501-74d02b9c93aa,YMCA,1552981505,Krasnaya Polyana,False
+1566,ccb187c0-2349-11ea-85e0-74d02b9c93aa,Join a Nonprofit Board,1514436997,Siemkowice,True
+1581,ccb187cf-2349-11ea-8bde-74d02b9c93aa,Animal Rescue Shelters,1280470300,Butwāl,True
+1585,ccb187d3-2349-11ea-afc9-74d02b9c93aa,Red Cross,1107376959,Khawrah,True
+1586,ccb187d4-2349-11ea-9f4a-74d02b9c93aa,Local Libraries,1261781535,Mesyagutovo,True
+1595,ccb187dd-2349-11ea-bc1e-74d02b9c93aa,Animal Rescue Shelters,1312105698,Malo,False
+1601,ccb1ae25-2349-11ea-a6a1-74d02b9c93aa,Art Museums,1523056092,Guniushan,False
+1609,ccb1ae2d-2349-11ea-987d-74d02b9c93aa,Art Museums,1435838226,Oslo,False
+1619,ccb1ae37-2349-11ea-aed0-74d02b9c93aa,Art Museums,1112548140,Itumbiara,True
+1632,ccb1ae44-2349-11ea-9799-74d02b9c93aa,Hold a Blood Drive,1241099266,Pingzhuang,False
+1642,ccb1ae4e-2349-11ea-be59-74d02b9c93aa,Build a Home,1063391911,Avlónas,False
+1648,ccb1ae54-2349-11ea-9a70-74d02b9c93aa,Clean Up,1262713821,Majalengka,True
+1661,ccb1ae61-2349-11ea-b44e-74d02b9c93aa,Let the Dogs Out,1483627677,Cimanggu,False
+1666,ccb1ae66-2349-11ea-8b62-74d02b9c93aa,Serve Food,1351443662,Mengeš,True
+1667,ccb1ae67-2349-11ea-a296-74d02b9c93aa,Adopt a Mile,1155260374,Koper,False
+1668,ccb1ae68-2349-11ea-83fa-74d02b9c93aa,Food Pantries,1343847128,Najrān,True
+1669,ccb1ae69-2349-11ea-bd53-74d02b9c93aa,Hold a Blood Drive,1406693869,Zarzal,True
+1670,ccb1ae6a-2349-11ea-ba47-74d02b9c93aa,Red Cross,1281598381,Meiktila,False
+1685,ccb1ae79-2349-11ea-afda-74d02b9c93aa,Red Cross,1108301289,Shinjō,False
+1687,ccb1ae7b-2349-11ea-9689-74d02b9c93aa,Put on a Show,1559059066,North Shore,True
+1692,ccb1ae80-2349-11ea-bd04-74d02b9c93aa,Serve Food,1571656053,Sedatigede,True
+1696,ccb1ae84-2349-11ea-a273-74d02b9c93aa,Get Geeky,1047106733,Moyamba,True
+1698,ccb1ae86-2349-11ea-9bc3-74d02b9c93aa,Put on a Show,1512769076,Teryayevo,False
+1704,ccb1ae8c-2349-11ea-91b7-74d02b9c93aa,Put on a Show,1448828036,Preserje pri Radomljah,True
+1705,ccb1ae8d-2349-11ea-a0b2-74d02b9c93aa,Get Geeky,1157567431,Rueil-Malmaison,True
+1715,ccb1ae97-2349-11ea-8b43-74d02b9c93aa,Put on a Show,1343816613,Stryszawa,True
+1717,ccb1ae99-2349-11ea-acc1-74d02b9c93aa,Tutor a Child,1139035255,Kālābāgh,True
+1718,ccb1ae9a-2349-11ea-9726-74d02b9c93aa,National Parks,1165677246,Al Mayādīn,False
+1754,ccb1aebe-2349-11ea-9a1c-74d02b9c93aa,National Parks,1203834236,La Cesira,False
+1757,ccb1aec1-2349-11ea-8864-74d02b9c93aa,Clean Up,1380174096,Famatina,True
+1769,ccb1aecd-2349-11ea-9e1c-74d02b9c93aa,Be a Landscaper,1288279854,Xincheng,False
+1787,ccb1aedf-2349-11ea-9cc9-74d02b9c93aa,Build a Home,1099091793,Sausa,False
+1793,ccb1d533-2349-11ea-b09f-74d02b9c93aa,YMCA,1207712656,Muḩambal,True
+1797,ccb1d537-2349-11ea-b225-74d02b9c93aa,Red Cross,1326408844,Ojos de Agua,False
+1802,ccb1d53c-2349-11ea-a8ab-74d02b9c93aa,Serve Food,1206927206,Sovetskiy,True
+1806,ccb1d540-2349-11ea-9c25-74d02b9c93aa,Adopt a Mile,1183687112,Ocoruro,False
+1808,ccb1d542-2349-11ea-a64b-74d02b9c93aa,Food Pantries,1259867677,Irupi,False
+1820,ccb1d54e-2349-11ea-936a-74d02b9c93aa,National Parks,1203644902,‘Ubāl,True
+1829,ccb1d557-2349-11ea-be8c-74d02b9c93aa,Join a Nonprofit Board,1311760644,Kagal’nitskaya,True
+1833,ccb1d55b-2349-11ea-8d26-74d02b9c93aa,Food Pantries,1109657543,Slavkov u Brna,True
+1836,ccb1d55e-2349-11ea-8081-74d02b9c93aa,Food Pantries,1151128250,Geneng,False
+1840,ccb1d562-2349-11ea-879d-74d02b9c93aa,Code for a Cause,1528326999,Sinuknipan,True
+1841,ccb1d563-2349-11ea-b779-74d02b9c93aa,Join a Nonprofit Board,1498781019,Bajera,False
+1843,ccb1d565-2349-11ea-b71c-74d02b9c93aa,Host a Car Wash,1344073357,Lipnik,True
+1848,ccb1d56a-2349-11ea-a54e-74d02b9c93aa,Offer to Cook,1021077130,Itum-Kali,True
+1865,ccb1d57b-2349-11ea-aee7-74d02b9c93aa,Serve Food,1285066939,Sanxi,True
+1867,ccb1d57d-2349-11ea-8b32-74d02b9c93aa,Get Geeky,1576263708,Dobri Dol,True
+1868,ccb1d57e-2349-11ea-84fe-74d02b9c93aa,YMCA,1013446870,Ipueiras,True
+1877,ccb1d587-2349-11ea-b017-74d02b9c93aa,Red Cross,1390155332,Huibu,False
+1884,ccb1d58e-2349-11ea-994d-74d02b9c93aa,Retirement Homes,1123942007,Amman,True
+1889,ccb1d593-2349-11ea-802b-74d02b9c93aa,Code for a Cause,1009658015,Pashkovskiy,False
+1894,ccb1d598-2349-11ea-8465-74d02b9c93aa,Send Encouragement,1332712378,Shimen,True
+1914,ccb1d5ac-2349-11ea-85ee-74d02b9c93aa,Serve Food,1054151371,Kimovsk,False
+1926,ccb1d5b8-2349-11ea-a726-74d02b9c93aa,YMCA,1099408732,Capilla del Monte,True
+1927,ccb1d5b9-2349-11ea-9b7b-74d02b9c93aa,Red Cross,990198012,Nabire,True
+1928,ccb1d5ba-2349-11ea-8e58-74d02b9c93aa,Retirement Homes,1572445141,Qiancheng,False
+1947,ccb1d5cd-2349-11ea-bf0c-74d02b9c93aa,Adopt a Mile,1424694986,Houston,True
+1957,ccb1d5d7-2349-11ea-9342-74d02b9c93aa,Build a Home,1265131510,Nanzamu,False
+1968,ccb1d5e2-2349-11ea-83b5-74d02b9c93aa,YMCA,1205089741,Tengjia,True
+1970,ccb1d5e4-2349-11ea-aef3-74d02b9c93aa,Hold a Blood Drive,1564015173,Jiyang,True
+1972,ccb1d5e6-2349-11ea-8f69-74d02b9c93aa,Code for a Cause,1359508857,Fort Wayne,True
+1983,ccb1d5f1-2349-11ea-bd84-74d02b9c93aa,Retirement Homes,1194010328,Kalutara,False
+1993,ccb1fc3c-2349-11ea-ad69-74d02b9c93aa,Habitat for Humanity,1025189940,Troyes,False
+1995,ccb1fc3e-2349-11ea-a4f0-74d02b9c93aa,Put on a Show,1114819975,Krajan,False
